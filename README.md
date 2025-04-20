@@ -70,11 +70,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Vivek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikkishre&show_icons=true&theme=tokyonight" alt="Vivek's GitHub stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vikkishre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkishre&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
